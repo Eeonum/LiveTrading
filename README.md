@@ -4,7 +4,6 @@ against real-time data. Eonum believes that the future is not like the past and 
 building the future. History teaches us lessons but what happens is up to us.
 
 DISCLAIMER:
-
 The material and codes on this repository are provided for informational/training purposes only and do not provide
 an offer to sell, a solicitation to buy, or a recommendation or endorsement for any strategy or security, nor does it
 establish an offer to provide investment advisory services by Eonum. The material offers no recommendation regarding the suitability of any specific investment or security 
